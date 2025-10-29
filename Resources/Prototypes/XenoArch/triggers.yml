@@ -243,6 +243,7 @@
     - Slime
     - AmmoniaBlood
     - ZombieBlood
+    - GoblinBlood # Frontier
 
 - type: xenoArchTrigger
   id: TriggerThrow
